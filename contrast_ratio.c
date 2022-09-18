@@ -1,4 +1,5 @@
 /******************************************************************************* 
+COMPILE
 gcc -o contrast-ratio contrast_ratio.c -lm
 *******************************************************************************/
 
@@ -53,6 +54,10 @@ int main(int argc, char* argv[]) {
 }
 
 /******************************************************************************
+SOURCE
+git@github.com:angstyloop/contrast-ratio.git
+
+REFERENCES
 https://www.w3.org/TR/2008/REC-WCAG20-20081211/#contrast-ratiodef
 https://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef
 ******************************************************************************/ 
